@@ -1,0 +1,14 @@
+:root {
+      --main-bg: #0d0d0d;
+      --second-bg: #141414;
+      --text-primary: #ffffff;
+      --text-second: #ff5c00;
+      --text-third: #010101;
+      --button-primary: #ff5c00;
+      --border-radius: 333px;
+      --border-radius-img: 16px;
+      --font-sans: 'DM Sans', sans-serif;
+      --font-serif: 'Instrument Serif', serif;
+
+}
+
