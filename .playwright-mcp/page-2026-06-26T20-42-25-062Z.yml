@@ -1,0 +1,35 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "Home" [ref=e5] [cursor=pointer]:
+        - /url: "@"
+      - link "About" [ref=e6] [cursor=pointer]:
+        - /url: "@"
+      - link "Contact" [ref=e7] [cursor=pointer]:
+        - /url: "@"
+    - button "enter" [ref=e9]
+  - generic [ref=e12]:
+    - img "Apple" [ref=e14]
+    - img "Samsung" [ref=e16]
+    - img "Uber" [ref=e18]
+  - generic [ref=e21]:
+    - img "Headphone" [ref=e22]
+    - img "Jacket" [ref=e23]
+    - img "Model" [ref=e24]
+  - generic [ref=e27]:
+    - generic [ref=e28]:
+      - img "image model 1" [ref=e29]
+      - heading "Project 1" [level=4] [ref=e30]
+      - paragraph [ref=e31]: Preview of the project
+    - generic [ref=e32]:
+      - img "image model 1" [ref=e33]
+      - heading "Project 2" [level=4] [ref=e34]
+      - paragraph [ref=e35]: Preview of the project
+    - generic [ref=e36]:
+      - img "image model 1" [ref=e37]
+      - heading "Project 3" [level=4] [ref=e38]
+      - paragraph [ref=e39]: Preview of the project
+  - generic [ref=e42]:
+    - heading "Tou want to hear more about us?" [level=2] [ref=e43]
+    - paragraph [ref=e44]: Send as a message!
+  - contentinfo
